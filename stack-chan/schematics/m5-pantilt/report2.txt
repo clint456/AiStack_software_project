@@ -1,0 +1,35 @@
+信息： 正在处理符号 'C1:Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder'。
+信息： 正在处理符号 'C2:Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder'。
+信息： 正在处理符号 'C3:Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder'。
+信息： 正在处理符号 'C4:Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder'。
+信息： 正在处理符号 'J1:Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Vertical_SMD'。
+信息： 正在处理符号 'J2:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical'。
+信息： 正在处理符号 'J3:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical'。
+信息： 正在处理符号 'J4:Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal'。
+信息： 正在处理符号 'J5:Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical'。
+信息： 正在处理符号 'J6:Connector_JST:JST_PH_S4B-PH-K_1x04_P2.00mm_Horizontal'。
+信息： 正在处理符号 'J7:Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical'。
+信息： 正在处理符号 'Q1:Package_TO_SOT_SMD:SOT-23'。
+信息： 正在处理符号 'R1:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R2:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R3:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R4:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R5:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R6:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R9:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R10:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R11:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R12:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R13:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R14:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R15:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'R16:Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder'。
+信息： 正在处理符号 'SW1:Button_Switch_THT:SW_CuK_OS102011MA1QN1_SPDT_Angled'。
+信息： 正在处理符号 'U1:m5-pantilt:NL27WZ125USG'。
+错误： 无法删除未使用的封装 Hole1 (已锁定)。
+错误： 无法删除未使用的封装 Hole2 (已锁定)。
+错误： 无法删除未使用的封装 Hole3 (已锁定)。
+错误： 无法删除未使用的封装 Hole4 (已锁定)。
+
+
+信息： 总计警告：0，错误：4。

@@ -1,0 +1,5 @@
+/node_modules/
+/tmp/
+/scripts/key.json
+/tsconfig.json
+/docs/api

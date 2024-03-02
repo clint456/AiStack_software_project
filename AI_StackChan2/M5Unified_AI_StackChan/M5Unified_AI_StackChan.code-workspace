@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "demo01",
+			"path": "E:/work_Space/M5_project/demo01"
+		},
+		{
+			"name": "stack-chan",
+			"path": "C:/Users/Clint/Desktop/M5Stack/stack-chan"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"istream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}

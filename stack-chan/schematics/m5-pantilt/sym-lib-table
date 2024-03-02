@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "pantilt")(type "Legacy")(uri "${KIPRJMOD}/pantilt.lib")(options "")(descr ""))
+  (lib (name "m5-pantilt-rescue")(type "KiCad")(uri "${KIPRJMOD}/m5-pantilt-rescue.kicad_sym")(options "")(descr ""))
+)

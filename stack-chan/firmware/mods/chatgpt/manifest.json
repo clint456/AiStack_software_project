@@ -1,0 +1,17 @@
+{
+	"include": [
+		"$(MODDABLE)/examples/manifest_mod.json"
+	],
+	"modules": {
+		"*": [
+			"./mod",
+			"./api-key"
+		]
+	},
+	"data": {
+		"*": [
+			"$(MODDABLE)/modules/crypt/data/ca109",
+			"$(MODDABLE)/modules/crypt/data/ca35"
+		]
+	}
+}
